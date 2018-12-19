@@ -21,13 +21,13 @@ This is certainly not the best accuracy achievable on the CIFAR10 dataset as 94-
 **Training Loss** <br>
 ![Validation Accuracy](images/test_accuracy.png)
 
-**Trained Filters**
+**Trained Filters Example**<br>
 ![Trained Filters](images/trained_filters.png)
 
-**Convolution Output** <br>
+**Convolution Output Example** <br>
 ![Convolution Output](images/conv_output.png)
 
-**Confusion Matrix** <br>
+**Confusion Matrix Example** <br>
 ![Confusion Matrix](images/conf_matrix_adam.png)
 
 ### How to run
