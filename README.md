@@ -1,1 +1,1 @@
-Playing around with PyTorch
+# Mini-Projects using Pytorch
