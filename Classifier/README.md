@@ -31,4 +31,5 @@ This is certainly not the best accuracy achievable on the CIFAR10 dataset as 94-
 ![Confusion Matrix](images/conf_matrix_adam.png)
 
 ### How to run
-Load the notebook file in jupyter and run each cell sequentially. Visdom is used to visualize the progression of trained filters and accuracies over each epoch.
+1. Start the visdom server. Visdom is used to visualize the progression of trained filters and accuracies over each epoch.
+2. Load the notebook file in jupyter and run each cell sequentially. 
